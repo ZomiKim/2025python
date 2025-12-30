@@ -5,19 +5,4 @@ Scripts
 share
 pyvenv.cfg
 
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-*.ipynb_checkpoints/
-
-# Generated audio files
-*.mp3
-*.wav
-voice.mp3
-
-# Test files
 00test.ipynb

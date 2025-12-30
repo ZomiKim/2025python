@@ -1,7 +1,5 @@
+streamlit
 deep-translator
 gtts
-pygame
-matplotlib
 youtube-transcript-api
-numpy
-pandas
+

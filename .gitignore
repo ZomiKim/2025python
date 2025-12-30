@@ -9,15 +9,21 @@ __pycache__/
 venv/
 env/
 ENV/
-.venv
+.venv/
+env.bak/
+venv.bak/
 include/
 Lib/
 Scripts/
 share/
 pyvenv.cfg
+etc/
+
+# Virtual Environment - 특정 경로 (현재 가상환경 위치)
+03server/01streamlit/etc/
+02code/01test/etc/
 
 # Distribution / packaging
-.Python
 build/
 develop-eggs/
 dist/
@@ -60,12 +66,7 @@ coverage.xml
 
 # Environments
 .env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.env.local
 
 # IDEs
 .vscode/
@@ -88,6 +89,9 @@ Desktop.ini
 *.mp3
 *.wav
 voice.mp3
+
+# Streamlit
+.streamlit/
 
 # Data files (uncomment if you don't want to track data)
 # *.csv
