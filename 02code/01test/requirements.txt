@@ -1,3 +1,8 @@
 deep-translator
-gtts 
+gtts
 pygame
+pandas
+numpy
+matplotlib
+youtube-transcript-api
+streamlit
